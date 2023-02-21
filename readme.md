@@ -1,7 +1,6 @@
 junior developer с# 
-навыки: asp net mvc, html css, win forms
-Цена за верстку сайта 400р за 1000px
+навыки: asp net mvc, html css
+
 
 КОНТАКТЫ:
 телеграмм @salov_ev
-https://vk.com/salov_it1
