@@ -1,5 +1,4 @@
-junior developer с# 
-навыки: asp net mvc, html css
+junior developer с#  asp net cor
 
 
 КОНТАКТЫ:
